@@ -1,4 +1,4 @@
-# Akil-Clone
+# Akil-Clone-with-Integrated-API
 
 This is Akil's Clone - a Job Opportunities portal built with React, TypeScript, and Next.js, where users can explore various job listings with options to filter and sort them.
 
