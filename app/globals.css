@@ -1,0 +1,54 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Epilogue:wght@400;700&display=swap');
+
+
+.heading-1{
+    font-size: 22px;
+    line-height: 24px;
+    font-family: 'Epilogue';
+    font-weight: 600;
+    color: #25324B;
+}
+.body-text{
+    font-size: 16px;
+    line-height: 25.6px;
+    font-family: 'Epilogue';
+    font-weight: 400;
+    color: #7C8493;
+}
+.body-text2{
+    font-size: 16px;
+    line-height: 25.6px;
+    font-family: 'Epilogue';
+    font-weight: 400;
+    color: #25324B;
+}
+.card{
+    width: 919px;
+    height: 266px;
+}
+
+.title-1{
+    font-size: 32px;
+    line-height: 38.4px;
+    font-family: 'Poppins';
+    font-weight: 900;
+    color: #25324B;
+    text-shadow: 1px 0 #25324B, -1px 0 #25324B, 0 1px #25324B, 0 -1px #25324B;
+}
+.title-2{
+    font-size: 24px;
+    line-height: 28.8px;
+    font-family: 'Poppins';
+    font-weight: 900;
+    color: #25324B;
+    text-shadow: 1px 0 #25324B, -1px 0 #25324B, 0 1px #25324B, 0 -1px #25324B;
+}
+.text-primary{
+    color: #25324B;
+}
+.s{
+    font-size: 1rem;
+}
